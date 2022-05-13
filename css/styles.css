@@ -89,6 +89,9 @@ body {
   color: var(--opacity-link-color);
   text-decoration: none;
 }
+.footer-link:hover{
+  color: var(--white-color);
+}
 .hero-text {
   font-weight: 900;
   font-size: 44px;
